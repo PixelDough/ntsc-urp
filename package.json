@@ -1,0 +1,24 @@
+{
+  "name": "com.pixeldough.ntscvolume",
+  "version": "1.0.1",
+  "displayName": "NTSC Volume",
+  "description": "A Post-processing volume that gives your game an NTSC-like appearence.",
+  "unity": "2021.2",
+  "unityRelease": "5f1",
+  "documentationUrl": "https://example.com/",
+  "changelogUrl": "https://example.com/changelog.html",
+  "licensesUrl": "https://example.com/licensing.html",
+  "keywords": [
+    "ntsc",
+    "volume",
+    "post processing",
+    "postprocessing",
+    "shader"
+  ],
+  "author": {
+    "name": "PixelDough",
+    "email": "alworrell19@gmail.com",
+    "url": "https://pixeldough.itch.io"
+  },
+  "hideInEditor": false
+}
